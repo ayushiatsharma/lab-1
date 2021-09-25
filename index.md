@@ -31,6 +31,6 @@ print("Hello World")
 > Live and let live 
 
 ## Some Relevant Links: 
-- Linking back to more of my work on **[GitHub]**(https://github.com/ayushiatsharma)
+- Linking back to more of my work on [GitHub](https://github.com/ayushiatsharma)
 - [Linking back to README.md](README.md)
 - Back to **[top](#ayushi-sharma)** of this page
