@@ -2,12 +2,7 @@
 #### 3rd year **undergraduate** student @ UC San Diego
 ###### *aysharma@ucsd.edu*
 
-
-## Food for thought: 
-> Live and let live 
-
-
-## From earlier days of progamming: 
+## Started progamming with: 
 ```
 print("Hello World")
 ```
@@ -29,12 +24,13 @@ print("Hello World")
 - [ ] More on the way ...
 
 ## Some of my random interests: 
-![beach image](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftropical-beach&psig=AOvVaw3OsmK1wZxBcffRL0iHFEwh&ust=1632641632956000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi795bOmfMCFQAAAAAdAAAAABAD)
+![beach image](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJvcGljYWwlMjBiZWFjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80)
 ![mountain image](https://images.unsplash.com/photo-1541800569-95a8b25835f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjB8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80)
 
+## Food for thought: 
+> Live and let live 
 
-## Linking back to more of my work on [GitHub](https://github.com/ayushiatsharma).
-
-## [Linking back to](README.md)
-
-## Back to **[top](#ayushi-sharma)** 
+## Some Relevant Links: 
+- Linking back to more of my work on [GitHub](https://github.com/ayushiatsharma)
+- [Linking back to README.md](README.md)
+- Back to **[top](#ayushi-sharma)** of this page
